@@ -3,11 +3,22 @@
 }
 
 .footer-uno{
-    margin: 190px 0;
+    margin: 350px 0;
+    text-align: center;
+}
+
+.footer-dos{
+    margin: 50px 0;
     text-align: center;
 }
 
 body{
     height: 800px;
     overflow-x: hidden;
+}
+
+.figure__texto{
+    background-color: rgb(175, 194, 178);
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 25px;
 }
